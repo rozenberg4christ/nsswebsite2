@@ -1,0 +1,110 @@
+
+<!----------- Start Student Reports ----------->
+body {
+  color: #000;
+  margin: 10px;
+  padding-top: 0px;
+}
+
+table{
+  border-collapse: collapse;
+  border-spacing: 0px;
+  width:99%;
+}
+.school_name{font-family:sans-serif; font-size:1em; text-align:center; font-weight:bold; color:#000; text-decoration:none; text-transform:uppercase; padding:10pt; line-height:20px;}
+
+.label {
+  color: #000;
+  padding: 5px 5px 5px 20px;
+  font-size: 0.70em;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+.label_bold{
+  color: #000;
+  padding: 5px;
+  font-size: 0.75em;
+  font-weight:bold;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+.field {
+  color: #000;
+  padding: 5px;
+  font-size: 0.75em;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+.head_bg{background:#dfdfdf;}
+
+.table_broder{border:1px solid #cbcbcb; border-collapse:collapse;}
+
+.mark_head_text{font-family:Verdana, Arial, Helvetica, sans-serif; padding:5px; font-size:0.75em; font-weight:bold; text-align:left; color:#666; text-decoration:none;}
+
+.postedby{font-family:Verdana, Arial, Helvetica, sans-serif; padding:5px; font-size:0.65em; font-weight:bold; text-align:right; color:#666; text-decoration:none;}
+
+.table_text {
+  color: #000;
+  padding: 5px;
+  font-size: 0.70em;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  border-bottom: 1px dotted #333;
+}
+
+.result_bold{
+  color: #333;
+  padding: 5px;
+  font-size: 0.75em;
+  font-weight:bold;
+  text-align:center;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  border-bottom: 1px dotted #333;
+}
+
+
+.table_text_bold {
+  color: #333;
+  padding: 10px;
+  font-size: 0.75em;
+  font-weight:bold;
+  text-align:center;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  border-bottom: 1px dotted #333;
+}
+
+.content_text {
+  color: #000;
+  padding: 5px;
+  line-height:18px;
+  font-size: 0.70em;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  border-bottom: 1px dotted #333;
+}
+
+.heading{font-family:Arial, Helvetica, sans-serif; padding:10px 10px 10px 0px; font-size:0.85em; font-weight:bold; text-align:left; color:#000; text-decoration:none; text-transform:uppercase;}
+.heading1{font-family:Arial, Helvetica, sans-serif; padding:5px 5px 5px 0px; font-size:0.80em; font-weight:bold; text-align:left; color:#000; text-decoration:none; text-transform:uppercase;}
+
+.exam_name{font-family:Arial, Helvetica, sans-serif; padding-bottom:5px; padding-left:5px; font-size:0.75em; font-weight:bold; text-align:left; color:#000; text-decoration:none; text-transform:uppercase;}
+
+table{
+empty-cells:show;
+}
+
+.subject_name{font-family:Arial, Helvetica, sans-serif; padding-bottom:10px; padding-left:5px; font-size:0.75em; font-weight:bold; text-align:left; color:#000; text-decoration:none;}
+
+.head_bg1{background:#8F8F8F;}
+
+.teacher_head_text{font-family:Verdana, Arial, Helvetica, sans-serif; padding:5px; font-size:0.75em; font-weight:bold; text-align:left; color:#fff; text-decoration:none;}
+
+.class_att{
+  color: #333;
+  padding: 15px;
+  font-size: 0.95em;
+  font-weight:bold;
+  text-align:left;
+  font-family:Arial, Helvetica, sans-serif;
+  border-bottom: 1px dotted #333;
+}
+
+.graph_text{font-family:Arial, Helvetica, sans-serif; font-size:0.65em; color:#666666; text-align:center; padding:5px}
+
+.graph_head{font-family:Arial, Helvetica, sans-serif; font-size:0.85em; font-weight:bold; text-transform:uppercase; color:#007eb9; text-align:center;  padding:20px;}

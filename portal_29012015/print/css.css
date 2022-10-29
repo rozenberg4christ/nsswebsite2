@@ -1,0 +1,99 @@
+body {
+	margin:0px 0px 0px 0px;
+	font-family:"Times New Roman", Times, serif;
+	font-size:14px;
+	color:#000;
+	background:#fff;}
+	
+img{border:0px;}
+
+form{margin:0px;}
+
+p{margin:0px 0px 10px 0px;}
+
+.table_horz{width:650px;}
+
+.table_vert{width:950px;}
+
+.table_body{width:100%;}
+
+.table_inner{ width:94%;}
+
+.right_img{float:right; padding:8px 0px 5px 10px;}
+
+.left_img{float:left; padding:0px 10px 5px 0px;}
+
+.td_width{width:5px;}
+
+.content{ font-family:"Times New Roman", Times, serif; color:#000; text-transform:none; font-size:14px; line-height:14pt; font-weight:normal;}
+
+.content_bold{ font-family:"Times New Roman", Times, serif; color:#000; text-transform:none; font-size:14px; line-height:14pt; font-weight:800;}
+
+.content_bold_R{ font-family:"Times New Roman", Times, serif; color:#000; text-transform:none; font-size:14px; line-height:14pt; font-weight:800; text-align:right;}
+
+
+.content_small{ font-family:"Times New Roman", Times, serif; color:#000; text-transform:none; font-size:12px; line-height:10pt; font-weight:normal;}
+
+.logo_title{color:#3c3c3c; font-family:"Times New Roman", Times, serif; font-size:16px; font-weight:800; line-height:15pt; text-align:center; text-transform:uppercase;}
+
+.sub_title{ color:#000; font-family:"Times New Roman", Times, serif; font-size:14px; text-align:center;}
+
+.title{color:#3c3c3c; font-family:"Times New Roman", Times, serif; font-size:16px; font-weight:800; line-height:15pt; text-align:center; text-decoration:underline; text-transform:uppercase;}
+
+.title_large{color:#3c3c3c; font-family:"Times New Roman", Times, serif; font-size:17px; font-weight:800; line-height:18pt; text-decoration:underline;}
+
+
+.surana_award_table{border:3px double #000000; width:600px;}
+
+.surana_award_content{ font-family:"Times New Roman", Times, serif; color:#000; text-align:justify; font-size:14px; line-height:18pt; font-weight:normal;}
+
+
+.surana_award_title{ font-family:Helvetica, sans-serif; color:#000; text-align:center; font-size:30px; line-height:18pt; font-weight:800; text-transform:uppercase;}
+
+.surana_award_content_mono{ font-family:"Monotype Corsiva"; color:#000; text-align:center; font-size:18px; line-height:18pt; font-weight:400;}
+
+.dashed_line{letter-spacing:1px;}
+
+
+
+.line_hight{line-height:8px;}
+
+.border{border:1px solid #000; background:#FFFFFF; padding:3px 10px 3px 10px; color:#3c3c3c; font-family:"Times New Roman", Times, serif; font-size:14px; font-weight:normal;}
+
+.bottom {font-size:13px; font-family:"Times New Roman", Times, serif; color:#494949; text-align:right; text-decoration:none; padding:0px 10px 0px 0px;}
+
+.hr{ border-bottom:1px solid #000000;}
+
+
+
+.preliminary_title{color:#3c3c3c; font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:800; line-height:18pt; }
+
+.preliminary_content_bold{color:#3c3c3c; font-family:Arial, Helvetica, sans-serif; font-size:13px; font-weight:800; line-height:20pt; text-align:center; }
+
+.preliminary_row_dark{ background:#c6c6c6; }
+
+.preliminary_row_light{ background:#dcdcdc;}
+
+.quarter_row_dark{ background:#c6c6c6; }
+
+
+.quarter_row_1{ background:#ccffff; }
+.quarter_row_2{ background:#ffcc99; }
+
+
+
+.memorial_scores_content{color:#3c3c3c; font-family:Arial, Helvetica, sans-serif; font-size:13px; font-weight:800; line-height:20pt; text-align:center; text-transform:uppercase; letter-spacing:0.5px;}
+
+
+.team_wise_report_content{color:#3c3c3c; font-family:Arial, Helvetica, sans-serif; font-size:13px; font-weight:800; line-height:14pt; text-align:center;}
+
+.team_wise_report_title{color:#3c3c3c; font-family:Arial, Helvetica, sans-serif; font-size:17px; font-weight:800; line-height:14pt; text-align:center; text-transform:uppercase;}
+
+.team_wise_report_dark{ background:#c0c0c0; color:#3c3c3c; font-family:Arial, Helvetica, sans-serif; font-size:13px; font-weight:800; line-height:14pt; text-align:center; }
+
+.team_wise_report_dark2{ background:#ffcc99;  color:#3c3c3c; font-family:Arial, Helvetica, sans-serif; font-size:13px; font-weight:800; line-height:14pt; text-align:center;}
+
+.team_wise_report_yellow{ background:#ffffcc; color:#3c3c3c; font-family:Arial, Helvetica, sans-serif; font-size:13px; font-weight:800; line-height:14pt; text-align:center;}
+
+
+.team_wise_report_light{ background:#ccffff; color:#3c3c3c; font-family:Arial, Helvetica, sans-serif; font-size:13px; font-weight:800; line-height:14pt; text-align:center;}
